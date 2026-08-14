@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://greenexchange.example/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://greenexchange.example/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://greenexchange.example/ar/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://greenexchange.example/ro/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://greenexchange.example/technology/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://greenexchange.example/technology/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://greenexchange.example/ar/technology/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://greenexchange.example/ro/technology/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://greenexchange.example/for-retailers/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://greenexchange.example/for-retailers/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://greenexchange.example/ar/for-retailers/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://greenexchange.example/ro/for-retailers/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://greenexchange.example/impact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://greenexchange.example/impact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://greenexchange.example/ar/impact/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://greenexchange.example/ro/impact/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://greenexchange.example/investors/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://greenexchange.example/investors/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://greenexchange.example/ar/investors/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://greenexchange.example/ro/investors/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://greenexchange.example/company/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://greenexchange.example/company/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://greenexchange.example/ar/company/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://greenexchange.example/ro/company/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://greenexchange.example/pilot/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://greenexchange.example/pilot/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://greenexchange.example/ar/pilot/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://greenexchange.example/ro/pilot/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://greenexchange.example/legal/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://greenexchange.example/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://greenexchange.example/ar/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://greenexchange.example/ro/legal/privacy/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://greenexchange.example/legal/cookies/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://greenexchange.example/legal/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://greenexchange.example/ar/legal/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://greenexchange.example/ro/legal/cookies/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://greenexchange.example/legal/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://greenexchange.example/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://greenexchange.example/ar/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://greenexchange.example/ro/legal/terms/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://greenexchange.example/legal/investor-disclaimer/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://greenexchange.example/legal/investor-disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://greenexchange.example/ar/legal/investor-disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://greenexchange.example/ro/legal/investor-disclaimer/"/>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>
