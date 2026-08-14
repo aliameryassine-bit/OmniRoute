@@ -350,7 +350,8 @@
      container along the transport path — the drawing explains the step. */
   function stepper() {
     var root = $("[data-stepper]");
-    if (!root) return;
+    if (!root || root.dataset.bound) return;
+    root.dataset.bound = "1";
     var steps = $$("[data-step]", root);
     var svg = $("[data-cutaway]");
     if (!steps.length) return;
@@ -491,6 +492,26 @@
     transitions();
     year();
   }
+
+  /**
+   * Settle any content that arrived after boot — used when a host swaps the
+   * page body in without a document load. Reveals resolve immediately rather
+   * than waiting to be scrolled past, since they are already on screen.
+   */
+  window.GX = {
+    refresh: function (scope) {
+      var root = scope || document;
+      $$("[data-reveal]", root).forEach(function (el) {
+        el.setAttribute("data-in", "true");
+      });
+      $$(".spec__leader", root).forEach(function (el) {
+        el.style.setProperty("--leader", "1");
+      });
+      drawings();
+      stepper();
+      calculator();
+    },
+  };
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", function () {
